@@ -45,4 +45,18 @@ npm run build
 
 ## ライセンス
 
-このプロジェクトのコードは、MITライセンスの下で公開されています。ライブラリやフレームワーク（React, Bootstrap, FontAwesomeなど）は、それぞれのライセンスに従って使用してください。
+このプロジェクトのコードは、[MIT License](https://opensource.org/licenses/MIT)の下で公開されています。
+
+### 使用しているオープンソースライブラリ
+
+このプロジェクトでは、以下のオープンソースライブラリを使用しています。各ライブラリのライセンスに従って使用してください。
+
+* React: [MIT License](https://github.com/facebook/react/blob/main/LICENSE)
+* Bootstrap: [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE)
+* FontAwesome: 
+    * アイコン: [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+    * フォント: [SIL OFL 1.1 License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+
+FontAwesome icons are copyright Fonticons, Inc.
+
+各ライブラリのライセンス全文は、上記のリンクからご確認ください。
